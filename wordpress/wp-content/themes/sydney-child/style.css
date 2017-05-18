@@ -1,0 +1,25 @@
+/*
+ Theme Name:   Sydney Child Theme
+ Theme URI:    http://www.themade.org
+ Description:  A Sydney child theme
+ Author:       Taylor Nodell
+ Author URI:   http://www.taylornodell.com
+ Template:     sydney
+ Version:      1.0.0
+*/
+
+@import url("../sydney/style.css");
+
+.footer-widgets{
+	padding: 15px;
+}
+
+.sponsor-list-item{
+	max-height: 75px;
+	width: auto;
+}
+
+.homepage-text {
+		color: black;
+    		padding-top: 20px;
+	}
